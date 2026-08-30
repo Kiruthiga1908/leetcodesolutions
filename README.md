@@ -10,6 +10,7 @@
 | [0169-majority-element](https://github.com/Kiruthiga1908/leetcodesolutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Kiruthiga1908/leetcodesolutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Kiruthiga1908/leetcodesolutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/Kiruthiga1908/leetcodesolutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,10 +44,12 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Kiruthiga1908/leetcodesolutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Kiruthiga1908/leetcodesolutions/tree/main/0268-missing-number/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/Kiruthiga1908/leetcodesolutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Kiruthiga1908/leetcodesolutions/tree/main/0268-missing-number/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/Kiruthiga1908/leetcodesolutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,4 +68,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Kiruthiga1908/leetcodesolutions/tree/main/0169-majority-element/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/Kiruthiga1908/leetcodesolutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 <!---LeetCode Topics End-->
