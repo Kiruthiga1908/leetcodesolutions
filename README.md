@@ -73,6 +73,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Kiruthiga1908/leetcodesolutions/tree/main/0169-majority-element/) | Easy |
+| [1603-design-parking-system](https://github.com/Kiruthiga1908/leetcodesolutions/tree/main/1603-design-parking-system/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,4 +90,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Kiruthiga1908/leetcodesolutions/tree/main/0075-sort-colors/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/Kiruthiga1908/leetcodesolutions/tree/main/1603-design-parking-system/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/Kiruthiga1908/leetcodesolutions/tree/main/1603-design-parking-system/) | Easy |
 <!---LeetCode Topics End-->
